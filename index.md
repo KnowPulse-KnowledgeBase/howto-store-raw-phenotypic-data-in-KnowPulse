@@ -6,14 +6,14 @@ root: .
 title: "Lesson Title"
 
 # Single Sentence purpose for this lesson.
-short-purpose: "This lesson will show you how to..."
+short-purpose: "This lesson will show you how to use raw phenotype importer to uoload your data file. "
 
 # Single-Sentence describing the researchers
 # who will be helped by this tutorial.
 who: "Pulse Crop Researchers focused on variation data."
 
 # A comma-separated list of maintainers for this lesson.
-maintainers: "Lacey-Anne Sanderson, Ruobin Liu"
+maintainers: "Ruobin Liu"
 
 # A short paragraph describing why we created this lesson.
 # What question is it trying to solve and why is that question important.
