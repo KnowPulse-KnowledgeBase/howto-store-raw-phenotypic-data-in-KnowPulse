@@ -8,7 +8,7 @@ questions:
 objectives:
 - "Providing a step by step demonstration on how to view and download a spreadsheet from KnowPulse."
 keypoints:
--
+-Log in KnowPulse with your user account before viewing and download your data
 ---
 
 To view your data, go to the [Raw Phenotypic Data](https://knowpulse.usask.ca/phenotypes/raw) page click on the **Select project and trait** dropdown, scroll down to select your project.
