@@ -4,7 +4,7 @@ teaching: 10 mins
 exercises: 20 mins
  
 questions:
-- "How to provide full information for the traits from your experiment if it is does not exist yet?"
+- "How to fill your data in the template?"
 objectives:
 - "Providing a step by step demonstration on how to fill in a customized template."
 keypoints:
