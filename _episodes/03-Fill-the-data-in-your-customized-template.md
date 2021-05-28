@@ -8,5 +8,5 @@ questions:
 objectives:
 - "Providing a step by step demonstration on how to fill in a customized template."
 keypoints:
--Make sure all the names under your name column match the existed germplasm in KnowPulse.
+- Make sure all the names under your name column match the existed germplasm in KnowPulse.
 ---
