@@ -11,4 +11,4 @@ keypoints:
 - Log in KnowPulse with your user account before creating your project.
 ---
 
-Please get in touch with us through xxx@xxx to set up all the details for your peoject.
+Please get in touch with us through ![Screenshot of main code listing](fig/gmatrix-poly-region-7.png). One of use will help you to set up all the details for your project.
