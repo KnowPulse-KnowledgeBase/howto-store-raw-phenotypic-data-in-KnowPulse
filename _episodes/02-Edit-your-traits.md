@@ -10,3 +10,7 @@ objectives:
 keypoints:
 - .
 ---
+
+Let us use this EVOLVES Activity 2b B-Vitamin project as an example to guide you through the process.
+To create new column headers new variables from your experiment, we need to know the **Name**, **Trait Rep/Stages**, **Unit**, **Definition**, and **Describe Method** as shown in the picture.
+![Screenshot of main code listing](../fig/howto-upload-raw-phenotypic-data.1.png)
