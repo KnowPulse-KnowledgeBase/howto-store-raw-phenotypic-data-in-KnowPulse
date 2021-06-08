@@ -10,3 +10,4 @@ objectives:
 keypoints:
 - Make sure all the names under your name column match the existed germplasm in KnowPulse.
 ---
+On the [Standard Phenotyping Procedure](https://knowpulse.usask.ca/phenotypes/raw/instructions) page, chose your registered project, then click on Download Data Collection Spreadsheet on the bottom left corner to fill in your data.
