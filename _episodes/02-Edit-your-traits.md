@@ -11,7 +11,7 @@ keypoints:
 - .
 ---
 
-
+Once you are registered under a project, you need to fill the trait details for your experiment. Go to the adminstration bar, Tripal > Extensions > Raw Phenotypes > Manage Projects
 
 The screenshot below shows an example of the information we collect if you need to add a new trait.
 To create new column headers (new variables) for your experiment, we need to know the **Name**, **Trait Rep/Stages**, **Unit**, **Definition**, and **Describe Method** for each of your trait as shown in the picture.
