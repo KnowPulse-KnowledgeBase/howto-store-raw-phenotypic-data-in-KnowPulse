@@ -13,4 +13,11 @@ keypoints:
 
 
 
-If you find out your project hasn't been created yet, please get in touch with us via ![Screenshot of main code listing](../fig/gmatrix-poly-region-7.png). One of us will help you to set up all the details for your project.In the next eposide, we will show you which information we need to gather from you for project creation.
+Once you have your data file ready to be uploaded, please get in touch with us via ![Screenshot of main code listing](../fig/gmatrix-poly-region-7.png). With having all the following details collected from you triats:
+
+- **Name**
+- **Trait Rep/Stages**
+- **Unit**
+- **Definition**
+
+One of us will help to set up all the details and register you under your project.
