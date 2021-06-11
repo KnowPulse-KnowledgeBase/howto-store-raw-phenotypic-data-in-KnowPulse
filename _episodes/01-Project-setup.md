@@ -1,12 +1,12 @@
 ---
-title: "Create your project on KnowPulse"
+title: "Project set up"
 teaching: 5 mins
 exercises: 10 mins
  
 questions:
-- "How to create a project on KnowPulse?"
+- "How to have your project set up?"
 objectives:
-- "Providing a step by step demonstration on how to create a project on KnowPulse."
+- "We need to collect information from your traits to set yot up a project on KnowPulse."
 keypoints:
 - Log in KnowPulse with your user account to find out your project.
 ---
