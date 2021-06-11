@@ -20,4 +20,4 @@ Once you have your data file ready to be uploaded, please get in touch with us v
 - **Unit**
 - **Definition**
 
-One of us will help to set up all the details and register you under your project.
+One of us will help to set up all the details and register you under your project.This step allows the raw phenotypic importer to generate customized  data collection spreadsheet to collect your data. 
