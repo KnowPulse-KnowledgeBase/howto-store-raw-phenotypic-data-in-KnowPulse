@@ -11,6 +11,6 @@ keypoints:
 - We encourage you to backup/upload raw phenotypic data even it is not clean. .
 ---
 
-There is a short cut on KnowPulse front page for data backup. You can back up your spreadsheet file under **My Raw Phenotypes**.
+To back up your data, there is a short cut on KnowPulse front page.  You can back up your spreadsheet file under **My Raw Phenotypes**.
 
 in the Phenotypic Data box, there are [Video Demonstrations](https://knowpulse.usask.ca/node/1772530) to guide you for data upload.
