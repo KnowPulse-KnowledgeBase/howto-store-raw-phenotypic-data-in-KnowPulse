@@ -13,11 +13,14 @@ keypoints:
 
 
 
-Once you have your data file ready to be uploaded, please get in touch with us via ![Screenshot of main code listing](../fig/gmatrix-poly-region-7.png). With having all the following details collected from you triats:
+Once you have your data file ready to be uploaded, please get in touch with us via ![Screenshot of main code listing](../fig/gmatrix-poly-region-7.png). 
+With having all the following details collected from your project traits:
 
 - **Name**
 - **Trait Rep/Stages**
 - **Unit**
 - **Definition**
 
-One of us will help to set up all the details and register you under your project.This step allows the raw phenotypic importer to generate customized  data collection spreadsheet to collect your data. 
+One of us will help to set up all the details and register you under your project. This setup step allows the raw phenotypic importer to generate a customized data collection spreadsheet to collect your data. 
+
+In the next episode, you will learn how to enter your data in the category column headers.
