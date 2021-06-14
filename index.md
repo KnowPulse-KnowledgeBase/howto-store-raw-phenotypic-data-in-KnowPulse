@@ -6,7 +6,7 @@ root: .
 title: "How can I store my raw phenotypic data in KnowPulse"
 
 # Single Sentence purpose for this lesson.
-short-purpose: "This lesson will show you how to use KnowPulse raw phenotype importer to backup/upload/download your data file. "
+short-purpose: "This lesson will show you how to use KnowPulse raw phenotype importer to backup/upload/download your data files. "
 
 # Single-Sentence describing the researchers
 # who will be helped by this tutorial.
@@ -21,8 +21,8 @@ why: "This lesson is aiming to guide our pulse crop researchers through the proc
 
 # A short list of items researchers will learn in this lesson.
 learn:
-- "How to create a project on KnowPulse."
-- "How to backup and upload raw phenotypic data ."
+- "How to set up your project on KnowPulse."
+- "How to backup and upload raw phenotypic data files."
 - "How to view and download data spreadsheet."
 
 data-description: "Phenotypic Data."
