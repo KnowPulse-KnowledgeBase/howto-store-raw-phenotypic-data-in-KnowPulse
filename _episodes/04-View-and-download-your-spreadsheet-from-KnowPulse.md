@@ -11,9 +11,14 @@ keypoints:
 - Log in KnowPulse with your user account before viewing and download your data
 ---
 
-To view your data, go to the [Raw Phenotypic Data](https://knowpulse.usask.ca/phenotypes/raw) page click on the **Select project and trait** dropdown, scroll down to select your project.
+Your data will be summarized in an interactive diagram showing the growing year(s) and location(s) [Raw Phenotypic Data](https://knowpulse.usask.ca/phenotypes/raw). 
+![Screenshot of main code listing](../fig/howto-upload-raw-phenotypic-data.1.png)
 
-You can also download your file by hitting the top right** Download Data** button. This button will lead you the the Download page. Once you are on the [Download](https://knowpulse.usask.ca/phenotypes/raw/download) page, again, you want to choose your project from the Project dropdown, then check both "Select all Locations" and "Select all Traits" on the bottom right corner before you hit the Download button.
+To download your data,  click **Download Data** on the top right corner to load download data page, then choose your project and define conditions or filters to apply when generating the data. Hit on **Download** button when you are ready. 
+
+
+
+
 
 
 All the data collecting, uploading, and downloading instructions from previous eposides can also be found in a [video demonstration format](https://knowpulse.usask.ca/node/1772530). 
