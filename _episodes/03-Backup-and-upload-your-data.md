@@ -12,7 +12,9 @@ keypoints:
 ---
 
 ## Data Backup
-[Data backup function](https://knowpulse.usask.ca/phenotypes/raw/backup) allows you to backup multiple versions of your raw phenotypic data files into the KnowPulse during the growing season. ![Screenshot of main code listing](../fig/howto-upload-raw-phenotypic-data.5.png) Click [here](https://knowpulse.usask.ca/portal/sites/default/files/tutorial_files/rawpheno_videos/rawpheno_backup.mp4) to view a detailed video instruction to learn the data backup procedure. 
+[Data backup function](https://knowpulse.usask.ca/phenotypes/raw/backup) allows you to backup multiple versions of your raw phenotypic data files into the KnowPulse during the growing season. To back up your data, first, choose your project, then drag your file into the box. A text file for file comments, description and notes is provided for future reference. You can view all your files in **Manage My Files** section. 
+
+Click [here](https://knowpulse.usask.ca/portal/sites/default/files/tutorial_files/rawpheno_videos/rawpheno_backup.mp4) to see a detailed video instruction to learn the data backup procedure. ![Screenshot of main code listing](../fig/howto-upload-raw-phenotypic-data.5.png) 
 
 You can also access data backup section through the **My Raw Phenotypes** panel.
 ![Screenshot of main code listing](../fig/howto-upload-raw-phenotypic-data.6.png)
