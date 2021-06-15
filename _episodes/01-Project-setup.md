@@ -13,7 +13,7 @@ keypoints:
 
 
 
-Once you have your data file ready to be uploaded, please get in touch with us via ![Screenshot of main code listing](../fig/howto-upload-raw-phenotypic-data.3.png). One of us will help to set up all the details and register you under your project. This setup step allows the raw phenotypic importer to generate a customized data collection spreadsheet to collect your data. 
+Once you have your data file ready to be uploaded, please get in touch with us via ![Screenshot of main code listing](../fig/howto-upload-raw-phenotypic-data.3.png). One of us will help to set up all the details and register you under your project. This setup step allows the raw phenotypic importer to generate a customized data collection spreadsheet to for your data. 
 We will need to collect all the following details from your project traits:
 
 - **Name**
