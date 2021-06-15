@@ -22,7 +22,7 @@ why: "This lesson is aiming to guide our pulse crop researchers through the proc
 # A short list of items researchers will learn in this lesson.
 learn:
 - "How to set up a project on KnowPulse to host your data."
-- "How to enter your data into data collection spreadsheet." 
+- "How to enter raw phenotypic data into a data collection spreadsheet." 
 - "How to backup and upload raw phenotypic data files."
 - "How to view and download data files."
 
