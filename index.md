@@ -13,7 +13,7 @@ short-purpose: "This lesson will show you how to use KnowPulse raw phenotype imp
 who: "Pulse Crop Researchers focused on variation data."
 
 # A comma-separated list of maintainers for this lesson.
-maintainers: "Ruobin Liu"
+maintainers: "Ruobin Liu and Reynold Tan"
 
 # A short paragraph describing why we created this lesson.
 # What question is it trying to solve and why is that question important.
