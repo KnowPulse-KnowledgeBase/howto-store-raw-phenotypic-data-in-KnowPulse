@@ -16,11 +16,13 @@ Your data will be summarized in an interactive diagram showing the growing year(
 
 To download your data,  click **Download Data** on the top right corner to load download data page, then choose your project and define conditions or filters to apply when generating the data. Hit on **Download** button when you are ready. 
 
+By now, your data file has been downloaded successfully, congratulation! 
+
+![Screenshot of main code listing](../fig/howto-upload-raw-phenotypic-data.2.png)
 
 
 
 
-
-All the data collecting, uploading, and downloading instructions from previous eposides can also be found in a [video demonstration format](https://knowpulse.usask.ca/node/1772530). 
+This is the end of the tutorial. All the data collecting, uploading, and downloading instructions from previous eposides can also be found in a [video demonstration format](https://knowpulse.usask.ca/node/1772530). 
 
 If you need further clarification on any issue or encounter any technical difficulities, please get in touch with us. 
