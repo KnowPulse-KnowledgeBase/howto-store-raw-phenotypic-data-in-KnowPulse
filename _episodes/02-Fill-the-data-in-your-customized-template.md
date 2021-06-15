@@ -11,13 +11,13 @@ keypoints:
 - Make sure all the names under your name column match the existed germplasm in KnowPulse.
 ---
 
-On the KnowPulse front page, find [Standard Phenotyping Procedure](https://knowpulse.usask.ca/phenotypes/raw/instructions), select your project in dropdown, click on **Download Data Collection Spreadsheet** on the bottom left corner, then fill in your data.
+## Download Data Collection Spreadsheet 
 
-Other than the added traits from your last step, details for five more default traits are required, which are 
-- Plot
-- Entry
-- Name
-- Rep
-- Location 
+Data collection spreadsheet can be downloaded from [Standard Phenotyping Procedure](https://knowpulse.usask.ca/phenotypes/raw/instructions). Choose your project from the dropdown before you click on **Download Data Collection Spreadsheet** on the bottom left corner. 
+![Screenshot of main code listing](../fig/howto-upload-raw-phenotypic-data.7.png)
 
-If any of these defalut trait doesn't apply to your data, fill the column with n/a. In the name column, all your names must match the existing germplasm names in KnowPulse.
+You will get a data collection template as showing in the screenshot.
+![Screenshot of main code listing](../fig/howto-upload-raw-phenotypic-data.8.png)
+A to E are default columns, follow by your traits. If any of these defauLt trait doesn't apply to your data, fill the column with n/a. In the name column, all your names must match the existing germplasm names in KnowPulse.
+
+Please note, each project can only handle one data spreadsheet and within one spreadsheet (...I NEED HELP HERE)
