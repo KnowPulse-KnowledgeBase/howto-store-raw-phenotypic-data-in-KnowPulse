@@ -27,7 +27,7 @@ The data uploading process takes three steps.
 This stage is designed to ensure your data file meets all the requirements from the importer. Validation errors may be detected in the file and you want to fix them according to the validation result. Click [here](https://knowpulse.usask.ca/portal/sites/default/files/tutorial_files/rawpheno_videos/rawpheno_upload_validation.mp4) to view more troubleshooting instructions. 
 
 ### 2. Describe New Trait
-At this stage, your spreadsheet is examined for additional phenotypes. This step has done already during project setup.
+At this stage, your spreadsheet is examined for additional phenotypes. This step has done already during project setup (see episode 1 for details).
 
 
 ### 3. Save Spreadsheet 
