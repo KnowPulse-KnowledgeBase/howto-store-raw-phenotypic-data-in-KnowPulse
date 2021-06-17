@@ -8,7 +8,7 @@ questions:
 objectives:
 - "Providing a step by step demonstration on how to ."
 keypoints:
-- We encourage you to backup/upload raw phenotypic data even it is not clean. .
+- We encourage you to backup/upload raw phenotypic data even it is not clean.
 ---
 
 ## Data Backup
