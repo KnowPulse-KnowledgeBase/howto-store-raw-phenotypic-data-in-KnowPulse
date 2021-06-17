@@ -8,7 +8,7 @@ questions:
 objectives:
 - "Providing a step by step demonstration on how to view and download a spreadsheet from KnowPulse."
 keypoints:
-- Log in KnowPulse with your user account before viewing and download your data
+- Log in KnowPulse with your user account before viewing and download your data.
 ---
 
 ## View your data
@@ -28,4 +28,4 @@ By now, your data file has been downloaded successfully, congratulation!
 
 This is the end of the tutorial. All the data collecting, uploading, and downloading instructions from previous episodes can also be found in a [video demonstration format](https://knowpulse.usask.ca/node/1772530). 
 
-If you need further clarification on any issue or encounter any technical difficulities, please get in touch with us. 
+If you need further clarification on any issue or encounter any technical difficulties, please get in touch with us. 
