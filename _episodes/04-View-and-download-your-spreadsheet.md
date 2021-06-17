@@ -1,5 +1,5 @@
 ---
-title: "View and download your spreadsheet from KnowPulse"
+title: "View and download your data"
 teaching: 10 mins
 exercises: 20 mins
  
