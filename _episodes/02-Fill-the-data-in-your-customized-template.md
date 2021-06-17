@@ -1,5 +1,5 @@
 ---
-title: "Fill the data in your customized template"
+title: "Fill your data in the data collection spreadsheet"
 teaching: 10 mins
 exercises: 20 mins
  
