@@ -13,4 +13,4 @@ We recommend using your full name with no special characters as your username an
 
 ### You may need permission to access or download data. For more information, contact us via
 
-![Screenshot of main code listing](fig/gmatrix-poly-region-7.png)
+![Screenshot of main code listing](fig/howto-upload-raw-phenotypic-data.10.png)
