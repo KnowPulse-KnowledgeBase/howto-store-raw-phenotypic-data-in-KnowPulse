@@ -23,7 +23,7 @@ Once you have a properly setup project in KnowPulse, you will be able to access 
 - A page to download data collection spreadsheet file pre-filled with project specific traits and formatted in way expected by KnowPulse/module. (This file is used to record data);
 - A space in KnowPulse that you can backup spreadsheet file and access backed up files anywhere;
 
-
-The trait description step can also be finished during data uploading. Click [here](https://knowpulse.usask.ca/portal/sites/default/files/tutorial_files/rawpheno_videos/rawpheno_upload_new_traits.mp4) to learn more details. 
+## Project page overview:
+![Screenshot of main code listing](../fig/howto-upload-raw-phenotypic-data.7.png)
 
 Now the raw phenotypic importer should be able to generate a customized data collection spreadsheet for your data. In the next episode, you will learn how to enter your data in the category column headers.
