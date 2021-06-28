@@ -8,15 +8,16 @@ questions:
 objectives:
 - "Providing a step by step demonstration on how to ."
 keypoints:
-- We encourage you to backup/upload raw phenotypic data even it is not clean.
+- We encourage you to backup/upload raw phenotypic data regularly The data is expected to be raw, so do not worry about cleanning it up between backups or for upload.
+- Save your file as XLSX format before upload. 
 ---
 
 ## Data Backup
-[Data backup function](https://knowpulse.usask.ca/phenotypes/raw/backup) allows you to backup multiple versions of your raw phenotypic data files into the KnowPulse during the growing season. To back up your data, first, choose your project, then drag your file into the box. A text file for file comments, description and notes is provided for future reference. You can view all your files in **Manage My Files** section. 
+[Data backup function](https://knowpulse.usask.ca/phenotypes/raw/backup) (needs login to access) allows you to backup multiple versions of your raw phenotypic data files into the KnowPulse during the growing season. Please note, your data file needs to be saved as Excel Workbooks (.xlsx). To back up your data, first, choose your project, then drag your file into the box. A text box for describing data collection in its current state is provided to make it easier to rederence back to if needed. You can view all your files in **Manage My Files** section. 
 
 Click [here](https://knowpulse.usask.ca/portal/sites/default/files/tutorial_files/rawpheno_videos/rawpheno_backup.mp4) to see a detailed video instruction to learn the data backup procedure. ![Screenshot of main code listing](../fig/howto-upload-raw-phenotypic-data.5.png) 
 
-You can also access data backup section through the **My Raw Phenotypes** panel.
+You can also access data backup section through the **My Raw Phenotypes** panel at the top of the KnowPulse homepage.
 ![Screenshot of main code listing](../fig/howto-upload-raw-phenotypic-data.6.png)
 
 
