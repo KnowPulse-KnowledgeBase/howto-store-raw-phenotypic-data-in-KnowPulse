@@ -1,7 +1,7 @@
 ---
-title: "View and download your data"
+title: "View your data"
 teaching: 10 mins
-exercises: 20 mins
+exercises: 10 mins
  
 questions:
 - "How to view and download your spreadsheet from KnowPulse?"
@@ -15,13 +15,7 @@ keypoints:
 Your data will be summarized in an interactive diagram that shows the growing year(s) and location(s) as shown in the example below [Raw Phenotypic Data](https://knowpulse.usask.ca/phenotypes/raw) (needs login to access). 
 ![Screenshot of main code listing](../fig/howto-upload-raw-phenotypic-data.1.png)
 
-## Download your data
-To download your data,  click **Change Project Link** on the top right corner to load download data page, then select your project and define conditions or filters to apply when generating the data. Hit on **Download** button on bottom right when you are ready. 
 
-
-By now, your data file has been downloaded successfully, congratulations! 
-
-![Screenshot of main code listing](../fig/howto-upload-raw-phenotypic-data.2.png)
 
 
 ## Final Thoughts
