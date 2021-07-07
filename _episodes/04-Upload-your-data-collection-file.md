@@ -12,7 +12,7 @@ keypoints:
 ---
 After your data collection spreadsheet file is properly filled, it is time to upload it. 
 
-## Data upload
+## How to upload data file
 
 ![Screenshot of main code listing](../fig/howto-upload-raw-phenotypic-data.12.png)
 1.	Select the project that corresponds to data collection spreadsheet file.
