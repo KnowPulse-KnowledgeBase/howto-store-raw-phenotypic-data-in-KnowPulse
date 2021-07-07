@@ -23,8 +23,7 @@ After your data collection spreadsheet file is properly filled, it is time to up
 
 
 ### 1. Validate Spreadsheet 
-This stage is designed to ensure your data file meets all the requirements from the importer. Validation errors may be detected in the file and you want to fix them according to the validation result.
-![Screenshot of main code listing](../fig/howto-upload-raw-phenotypic-data.13.png)
+This stage is designed to ensure your data file meets all the requirements from the importer. Validation errors may be detected in the file as shown and you want to fix them according to the validation result.
 ![Screenshot of main code listing](../fig/howto-upload-raw-phenotypic-data.14.png)
 Click [here](https://knowpulse.usask.ca/portal/sites/default/files/tutorial_files/rawpheno_videos/rawpheno_upload_validation.mp4) to view more troubleshooting instructions. 
 
