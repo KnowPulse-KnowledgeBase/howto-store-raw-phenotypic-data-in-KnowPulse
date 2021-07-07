@@ -22,8 +22,6 @@ keypoints:
 ![Screenshot of main code listing](../fig/howto-upload-raw-phenotypic-data.15.png)
 
 
-In File Browser, click the name of the file link under the File column or the download icon (arrow pointing down) to start file download. Click save file when prompted.
-
 5.Click File link in File summary window when file download process is complete.
 
 ![Screenshot of main code listing](../fig/howto-upload-raw-phenotypic-data.2.png)
