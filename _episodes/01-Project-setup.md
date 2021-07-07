@@ -20,6 +20,7 @@ Before you start collecting phenotypic data in your trial, please get in touch w
 
 ## More information
 
-This is the end of the tutorial. All the data collecting, uploading, and downloading instructions from previous episodes can also be found in a [video demonstration format](https://knowpulse.usask.ca/node/1772530). 
+All the data collecting, uploading, and downloading instructions from previous episodes can also be found in a [video demonstration format](https://knowpulse.usask.ca/node/1772530) (requires log in to access). 
 
-If you need further clarification on any issue or encounter any technical difficulties, please get in touch with us. 
+**If you need further clarification on any issue or encounter any technical difficulties, please get in touch with us.** 
+
