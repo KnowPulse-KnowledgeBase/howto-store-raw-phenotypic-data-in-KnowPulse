@@ -33,3 +33,6 @@ At this stage, your spreadsheet is examined for additional phenotypes. New trait
 
 ### 3.3. Save Spreadsheet 
 You will get feedback once your file has been uploaded successfully, click on bottom right **Next Step** to store your file. 
+
+**It is important to note that it is only when the progress bar reaches 100% and the status becomes Completed! that data will become available in Raw Phenotypic Data Page and Download Data Page.**
+
