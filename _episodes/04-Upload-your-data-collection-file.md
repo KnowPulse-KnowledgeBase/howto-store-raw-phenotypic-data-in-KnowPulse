@@ -6,9 +6,10 @@ exercises: 20 mins
 questions:
 - "How to upload your data?"
 objectives:
-- "."
+- "The upload data page handles and processes raw phenotypic data collected in the form of Microsoft Excel Spreadsheet file. The process is divided into 3 stages."
 keypoints:
-- Save your file as XLSX format before upload. 
+- Save your file as XLSX format before upload.
+- Only new traits require trait descriptions. 
 ---
 After your data collection spreadsheet file is properly filled, it is time to upload it. 
 
@@ -26,7 +27,7 @@ This stage is designed to ensure your data file meets all the requirements from 
 
 ![Screenshot of main code listing](../fig/howto-uplpad-raw-phenotypic-data.14.png)
 
-**Click [here](https://knowpulse.usask.ca/portal/sites/default/files/tutorial_files/rawpheno_videos/rawpheno_upload_validation.mp4) to view more troubleshooting instructions.** 
+**Click [here](https://knowpulse.usask.ca/portal/sites/default/files/tutorial_files/rawpheno_videos/rawpheno_upload_validation.mp4) to view more troubleshooting instructions, or please contact us if you need helps.** 
 
 ### 3.2. Describe New Trait
 At this stage, your spreadsheet is examined for additional phenotypes. New trait(s) will be detected in your spreadsheet at this stage, and you are requested to add description(s) for new trait(s). If there are no additional traits found, you may proceed to the next stage where spreadsheet file and data are stored.
