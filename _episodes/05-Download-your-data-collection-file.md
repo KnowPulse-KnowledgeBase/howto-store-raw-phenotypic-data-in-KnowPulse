@@ -4,9 +4,9 @@ teaching: 10 mins
 exercises: 10 mins
  
 questions:
-- "How to view and download your spreadsheet from KnowPulse?"
+- "How to download your data collection spreadsheet from KnowPulse?"
 objectives:
-- "Providing a step by step demonstration on how to view and download a spreadsheet from KnowPulse."
+- "Providing a step by step demonstration on how to download subset/full set of data from KnowPulse."
 keypoints:
 - Log in KnowPulse with your user account before viewing and to download your data.
 ---
@@ -21,6 +21,7 @@ keypoints:
 
 ![Screenshot of main code listing](../fig/howto-upload-raw-phenotypic-data.15.png)
 
+**Data generated from this page is in comma separated or CSV format and is R and Microsoft Excel compatible.**
 
 5.Click File link in File summary window when file download process is complete.
 
