@@ -18,18 +18,23 @@ keypoints:
 **Please note, your data file needs to be saved as Excel Workbooks (.xlsx).**
 
 ## How to back up your data
-1. select the project that corresponds to data collection spreadsheet file. 
-2. Then drag and drop your file to the File Drop Zone Area or click choose file to launch file browser window. 
+1. Select the project that corresponds to data collection spreadsheet file. 
+2. Then drag and drop your file to the **File Drop Zone Area** or click choose file to launch file browser window. 
 3. A text box for describing data collection in its current state is provided to make it easier to reference back to if needed. 
 
 You can view all your files in **Manage My Files** section.
 
-Click [here](https://knowpulse.usask.ca/portal/sites/default/files/tutorial_files/rawpheno_videos/rawpheno_backup.mp4) to see a detailed video instruction to learn the data backup procedure.  
-
-## How to archive, restore and delete a file
-To archive a file, you need to click the Trash Bin icon (see point 5). The trash icon will indicate that there are archive files in a project. Click Archive file indicator to disclose archive files table. In archive files table, options to restore file and physically delete file will become available. You will be prompted to confirm any action to a file.
+Click [here](https://knowpulse.usask.ca/portal/sites/default/files/tutorial_files/rawpheno_videos/rawpheno_backup.mp4) (requires log in to access) to see a detailed video instruction to learn the data backup procedure.  
 
 ![Screenshot of main code listing](../fig/howto-upload-raw-phenotypic-data.11.png)
+## How to archive, restore and delete a file
+1.	In File Browser, click the Trash Bin icon to archive a file. ![Screenshot of main code listing](../fig/howto-upload-raw-phenotypic-data.16.png) will indicate that there are archive files in a project.
+2.	Click Archive file indicator to disclose archive files table.
+3.	In archive files table, options to restore file and physically delete file will become available. You will be prompted to confirm any action to a file.
+
+
+
+![Screenshot of main code listing](../fig/howto-upload-raw-phenotypic-data.12.png)
 
 
 
