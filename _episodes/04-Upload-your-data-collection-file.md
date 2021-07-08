@@ -10,6 +10,7 @@ objectives:
 keypoints:
 - Save your file as XLSX format before upload.
 - Only new traits require trait descriptions. 
+- Please make sure you upload your data file to the right project. 
 ---
 After your data collection spreadsheet file is properly filled, it is time to upload it. 
 
