@@ -8,7 +8,7 @@ questions:
 objectives:
 - "Backup page allows active users appointed to a project to backup multiple versions of their data collection spreadsheet file into the server before submitting them to the module through the upload data page."
 keypoints:
-- We encourage you to backup/upload raw phenotypic data regularly The data is expected to be raw, so do not worry about cleanning it up between backups or for upload.
+- We encourage you to backup/upload raw phenotypic data regularly. The data is expected to be raw, so do not worry about cleaning it up between backups or for upload.
 - Save your file as XLSX format before upload. 
 ---
 
