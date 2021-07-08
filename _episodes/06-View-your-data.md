@@ -12,6 +12,6 @@ keypoints:
 ---
 
 ## View your data
-Your data will be summarized in an interactive diagram that shows the growing year(s) and location(s) as shown in the example below [Raw Phenotypic Data](https://knowpulse.usask.ca/phenotypes/raw) (needs login to access). 
+Your data will be summarized in an interactive diagram that shows the growing year(s) and location(s) as shown in the example below [Raw Phenotypic Data](https://knowpulse.usask.ca/phenotypes/raw) (requires login to access). 
 ![Screenshot of main code listing](../fig/howto-upload-raw-phenotypic-data.1.png)
 
