@@ -24,7 +24,7 @@ Data collection spreadsheet can be downloaded from [Standard Phenotyping Procedu
 ## You will get a data collection spreadsheet as shown in the screenshot.
 
 ![Screenshot of main code listing](../fig/howto-upload-raw-phenotypic-data.8.png)
-Column A to E are default headers, followed by one column per trait. If any of these default traits do not apply to your data, fill the column with n/a. In the name column, all your names must match the existing germplasm names in KnowPulse. There is another tutorial to guide you through the [Germplasm Search](https://knowpulse-knowledgebase.github.io/Germplasm-Search/) process. If your germplasm does not exist in KnowPulse yet, please contact us.
+Columns A to E are default headers, followed by one column per trait. If any of these default traits do not apply to your data, fill the column with n/a. In the name column, all your names must match the existing germplasm names in KnowPulse. There is another tutorial to guide you through the [Germplasm Search](https://knowpulse-knowledgebase.github.io/Germplasm-Search/) process. If your germplasm does not exist in KnowPulse yet, please contact us.
 
 
 **Please note, each project can only handle one data collection spreadsheet, therefore, if you think you will need to upload multiple files, please contact us.**
