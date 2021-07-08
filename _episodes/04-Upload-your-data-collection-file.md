@@ -14,11 +14,12 @@ After your data collection spreadsheet file is properly filled, it is time to up
 
 ## How to upload data file
 
-![Screenshot of main code listing](../fig/howto-upload-raw-phenotypic-data.12.png)
+
 1.	Select the project that corresponds to data collection spreadsheet file.
 2.	Drag and Drop file to the File Drop Zone Area or click **choose file** to launch file browser window as shown in the screenshot. 
 3.	The upload process will initiate once a valid file is detected in the File Drop Zone Area. At this stage, you will be notified whether the file has passed or failed basic compliance test.
 
+![Screenshot of main code listing](../fig/howto-upload-raw-phenotypic-data.12.png)
 
 ### 3.1. Validate Spreadsheet 
 This stage is designed to ensure your data file meets all the requirements from the importer. Validation errors may be detected in the file as shown and you want to fix them according to the validation result.
