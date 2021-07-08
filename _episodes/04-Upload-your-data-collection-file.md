@@ -6,7 +6,7 @@ exercises: 20 mins
 questions:
 - "How to upload your data?"
 objectives:
-- "The upload data page handles and processes raw phenotypic data collected in the form of Microsoft Excel Spreadsheet file. The process is divided into 3 stages."
+- "Providing a step by step demonstration on how to upload data through three-steps data uploading process."
 keypoints:
 - Save your file as XLSX format before upload.
 - Only new traits require trait descriptions. 
