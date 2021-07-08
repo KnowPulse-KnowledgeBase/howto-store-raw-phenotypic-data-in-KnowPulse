@@ -12,7 +12,7 @@ keypoints:
 - Upload only one file under each project. 
 ---
 
-## How to download data collection spreadsheet file?
+## How to download data collection spreadsheet file
 Data collection spreadsheet can be downloaded from [Standard Phenotyping Procedure](https://knowpulse.usask.ca/phenotypes/raw/instructions) (requires log in to access).
 
 1.	Click Change Project link, located next the project title of the currently active project to show Change Project Form.
