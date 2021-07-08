@@ -19,11 +19,12 @@ keypoints:
 3.	Select **Traits** from **Trait Selector Field**. To select all traits, click the select all trait checkbox.
 4.	Check other download option and click **Download** button to begin file download.
 
+
 ![Screenshot of main code listing](../fig/howto-upload-raw-phenotypic-data.15.png)
 
 **Data generated from this page is in comma separated or CSV format and is R and Microsoft Excel compatible.**
 
-5. Click File link in File summary window when file download process is complete.
+5.	Click File link in File summary window when file download process is complete.
 
 ![Screenshot of main code listing](../fig/howto-upload-raw-phenotypic-data.2.png)
 
