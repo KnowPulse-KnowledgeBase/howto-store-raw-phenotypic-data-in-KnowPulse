@@ -23,7 +23,7 @@ keypoints:
 
 **Data generated from this page is in comma separated or CSV format and is R and Microsoft Excel compatible.**
 
-5.Click File link in File summary window when file download process is complete.
+5. Click File link in File summary window when file download process is complete.
 
 ![Screenshot of main code listing](../fig/howto-upload-raw-phenotypic-data.2.png)
 
