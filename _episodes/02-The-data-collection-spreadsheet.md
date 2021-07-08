@@ -6,7 +6,7 @@ exercises: 20 mins
 questions:
 - "How to fill your data in the template?"
 objectives:
-- "Providing a step by step demonstration on how to fill in a customized template."
+- "Providing a step by step demonstration on how to download and fill in a data collection spreadsheet."
 keypoints:
 - Make sure all the names under the name column match existing germplasm in KnowPulse.
 - Upload only one file under each project. 
@@ -22,7 +22,7 @@ Data collection spreadsheet can be downloaded from [Standard Phenotyping Procedu
 3.	Click the Download Data Collection Spreadsheet link in the Standard Procedure Tab to begin file download. Click save when prompted.
 
 
-**You will get a data collection spreadsheet as shown in the screenshot.**
+## You will get a data collection spreadsheet as shown in the screenshot.
 
 ![Screenshot of main code listing](../fig/howto-upload-raw-phenotypic-data.8.png)
 Column A to E are default headers, followed by one column per trait. If any of these default traits do not apply to your data, fill the column with n/a. In the name column, all your names must match the existing germplasm names in KnowPulse. There is another tutorial to guide you through the [Germplasm Search](https://knowpulse-knowledgebase.github.io/Germplasm-Search/) process. If your germplasm does not exist in KnowPulse yet, please contact us.
