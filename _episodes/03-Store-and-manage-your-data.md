@@ -36,7 +36,7 @@ Click [here](https://knowpulse.usask.ca/portal/sites/default/files/tutorial_file
 
 ![Screenshot of main code listing](../fig/howto-upload-raw-phenotypic-data.12.png)
 
-                                            **Figure 1. Drag and drop a file**
+<center>Figure 1. Drag and drop a file<center>
 
 
 
