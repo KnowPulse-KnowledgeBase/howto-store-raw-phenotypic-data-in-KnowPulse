@@ -19,7 +19,7 @@ keypoints:
 
 ## How to back up your data
 1. Select the project that corresponds to data collection spreadsheet file. 
-2. Then drag and drop your file to the **File Drop Zone Area** or click choose file to launch file browser window (See Figure 1 below). 
+2. Then drag and drop your file to the **File Drop Zone Area** or click choose file to launch file browser window (See figure below). 
 3. A text box for describing data collection in its current state is provided to make it easier to reference back to if needed. 
 
 You can view all your files in **Manage My Files** section.
@@ -35,9 +35,6 @@ Click [here](https://knowpulse.usask.ca/portal/sites/default/files/tutorial_file
 
 
 ![Screenshot of main code listing](../fig/howto-upload-raw-phenotypic-data.12.png)
-
-<center>Figure 1. Drag and drop a file<center>
-
 
 
 
