@@ -6,7 +6,7 @@ exercises: 10
 questions:
 - "How to view your data from KnowPulse?"
 objectives:
-- "Providing a step by step demonstration on how to view a uploaded data file from KnowPulse."
+- "Providing a step by step demonstration on how to view your interest trait(s) from KnowPulse."
 keypoints:
 - Log in KnowPulse with your user account before viewing your data.
 ---
