@@ -17,7 +17,7 @@ Data collection spreadsheet can be downloaded from [Standard Phenotyping Procedu
 
 1.	Click **Change Project** link, located next the project title of the currently active project to show **Change Project Form**.
 2.	Select a project when prompted. The instructions page will reload with a new active project. This will ensure that you are downloading the data collection spreadsheet file corresponding to a project that you are working on.
-3.	Click the **Download Data Collection Spreadsheet** link in the Standard Procedure Tab to begin file download. Click save when prompted.
+3.	Click the **Download Data Collection Spreadsheet** link in the **Standard Procedure Tab** to begin file download. Click save when prompted.
 
 ![Screenshot of main code listing](../fig/howto-upload-raw-phenotypic-data.17.png)
 
