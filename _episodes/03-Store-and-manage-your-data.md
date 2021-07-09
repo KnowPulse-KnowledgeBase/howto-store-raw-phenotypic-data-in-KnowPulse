@@ -1,7 +1,7 @@
 ---
 title: "Backup and upload your data"
-teaching: 10 mins
-exercises: 20 mins
+teaching: 10
+exercises: 20
  
 questions:
 - "How to store and manage your data?"
