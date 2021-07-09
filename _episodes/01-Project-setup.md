@@ -1,7 +1,7 @@
 ---
 title: "Project set up"
-teaching: 5 mins
-exercises: 10 mins
+teaching: 5 
+exercises: 10 
  
 questions:
 - "How to have your project set up?"
