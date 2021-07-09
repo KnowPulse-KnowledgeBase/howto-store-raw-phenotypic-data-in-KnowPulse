@@ -1,7 +1,7 @@
 ---
 title: "View your data"
-teaching: 10 mins
-exercises: 10 mins
+teaching: 10
+exercises: 10
  
 questions:
 - "How to view your data from KnowPulse?"
