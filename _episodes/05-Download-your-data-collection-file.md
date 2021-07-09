@@ -24,6 +24,6 @@ keypoints:
 
 ## Download progress
 
-1.	Click File link in File summary window when file download process is complete.	
+1.	Click File link in **File summary window** when file download process is complete.	
 ![Screenshot of main code listing](../fig/howto-upload-raw-phenotypic-data.2.png)
 2.	Click Ok when prompted to save file.
