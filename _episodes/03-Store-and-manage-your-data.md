@@ -28,7 +28,7 @@ Click [here](https://knowpulse.usask.ca/portal/sites/default/files/tutorial_file
 
 ![Screenshot of main code listing](../fig/howto-upload-raw-phenotypic-data.11.png)
 ## How to archive, restore and delete a file
-1.	In File Browser, click the Trash Bin icon to archive a file. ![Screenshot of main code listing](../fig/howto-upload-raw-phenotypic-data.16.png) will indicate that there are archive files in a project.
+1.	In **File Browser**, click the Trash Bin icon to archive a file. ![Screenshot of main code listing](../fig/howto-upload-raw-phenotypic-data.16.png) will indicate that there are archive files in a project.
 2.	Click Archive file indicator to disclose archive files table.
 3.	In archive files table, options to restore file and physically delete file will become available. You will be prompted to confirm any action to a file.
 
