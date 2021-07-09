@@ -1,7 +1,7 @@
 ---
 title: "Upload your data collection file"
-teaching: 10 mins
-exercises: 20 mins
+teaching: 10
+exercises: 20
  
 questions:
 - "How to upload your data?"
