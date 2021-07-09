@@ -6,7 +6,7 @@ exercises: 20 mins
 questions:
 - "How to fill your data in the template?"
 objectives:
-- "Providing a step by step demonstration on how to download and fill in a data collection spreadsheet."
+- "Providing a step by step demonstration on where to download and how to fill in a data collection spreadsheet."
 keypoints:
 - Make sure all the names under the name column match existing germplasm in KnowPulse.
 - Upload only one file under each project. 
