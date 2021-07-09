@@ -9,7 +9,7 @@ objectives:
 - "Providing a step by step demonstration on how to backup multiple versions of your data collection spreadsheet file into the server before submitting them to the module through the upload data page."
 keypoints:
 - We encourage you to backup/upload raw phenotypic data regularly. The data is expected to be raw, so do not worry about cleaning it up between backups or for upload.
-- Save your file as XLSX format before upload. 
+- Save your file as .xlsx format before upload. 
 ---
 
 # Data backup
