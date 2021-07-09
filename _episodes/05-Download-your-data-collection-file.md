@@ -1,7 +1,7 @@
 ---
 title: "Download your data collection spreadsheet file"
-teaching: 10 mins
-exercises: 10 mins
+teaching: 10
+exercises: 10
  
 questions:
 - "How to download your data collection spreadsheet from KnowPulse?"
