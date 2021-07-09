@@ -1,7 +1,7 @@
 ---
 title: "The data collection spreadsheet"
-teaching: 10 mins
-exercises: 20 mins
+teaching: 10
+exercises: 20
  
 questions:
 - "How to fill your data in the template?"
