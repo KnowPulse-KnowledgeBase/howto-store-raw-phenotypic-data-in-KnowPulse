@@ -1,10 +1,10 @@
 ---
-title: "Download your data collection spreadsheet file"
+title: "Download your data"
 teaching: 10
 exercises: 10
  
 questions:
-- "How to download your data collection spreadsheet from KnowPulse?"
+- "How to download your data from KnowPulse?"
 objectives:
 - "Providing a step by step demonstration on how to download subset/full set of data from KnowPulse."
 keypoints:
